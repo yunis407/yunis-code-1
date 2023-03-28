@@ -46,3 +46,5 @@ console.log(`Tax: Ksh.${tax}`);
 console.log(`NHIF Deductions: Ksh.${NHIF}`);
 console.log(`NSSF Deductions: Ksh.${NSSF}`);
 console.log(`Net Salary: Ksh.${netSalary}`);
+
+M
